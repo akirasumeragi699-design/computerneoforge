@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "up": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "north": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "east": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "south": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "west": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm",
+    "particle": "computerneoforge:block/chatgpt_image_aug_8_2025_02_39_13_pm"
+  },
+  "render_type": "solid"
+}
